@@ -3,6 +3,6 @@
 
 # tf state files
 *.tfstate
-*.tfstate.*
+*.tfstate*
 
 
